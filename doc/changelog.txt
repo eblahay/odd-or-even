@@ -1,6 +1,7 @@
-0.1.0 WIP
+0.1.0
     Features:
         - User can enter an integer as a command-line
           argument, and the program will print a 
           statement describing whether said integer is 
           even or odd.
+        - functional version and help flags
